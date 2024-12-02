@@ -18,5 +18,5 @@ This is a simple **Frequently Asked Questions (FAQ)** page created using **HTML*
 ## How to View the Page
 
 You can view the FAQ page in:
-**Online**:
+- **Online**:
    - https://josedg45.github.io/Responsive-Web-Design-FAQ/
